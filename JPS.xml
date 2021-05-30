@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:819d0d049b0aead0e6d8c976c407e8c1:43fe3c3da1258ec07c6177eb592e1f97:4c6ddcd5c6473e787ccf6810be6e2642$ -->
+<TextureAtlas imagePath="JPS.png" width="1453" height="496">
+    <sprite n="char_monkey_idle_1.png" x="720" y="391" w="87" h="99"/>
+    <sprite n="char_monkey_idle_2.png" x="938" y="391" w="63" h="98"/>
+    <sprite n="char_monkey_idle_3.png" x="1003" y="391" w="64" h="91"/>
+    <sprite n="char_monkey_jump2.png" x="809" y="391" w="64" h="99"/>
+    <sprite n="char_monkey_jump_1.png" x="658" y="391" w="60" h="101"/>
+    <sprite n="char_monkey_jump_3.png" x="522" y="391" w="64" h="102"/>
+    <sprite n="char_monkey_jump_4.png" x="1372" y="1" w="66" h="95"/>
+    <sprite n="char_monkey_walk_1.png" x="875" y="391" w="61" h="99"/>
+    <sprite n="char_monkey_walk_2.png" x="457" y="391" w="63" h="104"/>
+    <sprite n="char_monkey_walk_3.png" x="588" y="391" w="68" h="101"/>
+    <sprite n="char_monkey_walk_4.png" x="391" y="391" w="64" h="104"/>
+    <sprite n="eagle_1.png" x="1166" y="137" w="128" h="74"/>
+    <sprite n="eagle_2.png" x="1041" y="137" w="123" h="76"/>
+    <sprite n="eagle_3.png" x="1329" y="424" w="118" h="67"/>
+    <sprite n="eagle_4.png" x="1329" y="358" w="119" h="64"/>
+    <sprite n="item-banana-idle-middle-01_0.png" x="131" y="1" w="200" h="184"/>
+    <sprite n="jungle_BridgeLeft.png" x="131" y="187" w="128" h="128"/>
+    <sprite n="jungle_BridgeRight.png" x="131" y="317" w="128" h="128"/>
+    <sprite n="jungle_Bush.png" x="261" y="187" w="128" h="128"/>
+    <sprite n="jungle_FlowerBlue.png" x="261" y="317" w="128" h="128"/>
+    <sprite n="jungle_FlowerRed.png" x="333" y="1" w="128" h="128"/>
+    <sprite n="jungle_FlowerYellow.png" x="391" y="131" w="128" h="128"/>
+    <sprite n="jungle_leftblock.png" x="651" y="131" w="128" h="128"/>
+    <sprite n="jungle_leftCurveblock.png" x="521" y="261" w="128" h="128"/>
+    <sprite n="jungle_middleblock.png" x="723" y="1" w="128" h="128"/>
+    <sprite n="jungle_NograssBlock.png" x="463" y="1" w="128" h="128"/>
+    <sprite n="jungle_plant.png" x="651" y="261" w="128" h="128"/>
+    <sprite n="jungle_platformLeft.png" x="781" y="131" w="128" h="128"/>
+    <sprite n="jungle_platformLeft2.png" x="853" y="1" w="128" h="128"/>
+    <sprite n="jungle_platformMiddle.png" x="781" y="261" w="128" h="128"/>
+    <sprite n="jungle_platformMiddle2.png" x="911" y="131" w="128" h="128"/>
+    <sprite n="jungle_platformRight.png" x="911" y="261" w="128" h="128"/>
+    <sprite n="jungle_platformRight2.png" x="1324" y="98" w="128" h="128"/>
+    <sprite n="jungle_regularBlock.png" x="1041" y="228" w="128" h="128"/>
+    <sprite n="jungle_RegularPlatform.png" x="391" y="261" w="128" h="128"/>
+    <sprite n="jungle_RegularPlatform2.png" x="521" y="131" w="128" h="128"/>
+    <sprite n="jungle_rightblock.png" x="1171" y="228" w="128" h="128"/>
+    <sprite n="jungle_rightCurveblock.png" x="1069" y="358" w="128" h="128"/>
+    <sprite n="jungle_Stump.png" x="593" y="1" w="128" h="128"/>
+    <sprite n="jungle_tree1.png" x="1" y="1" w="128" h="256"/>
+    <sprite n="jungle_tree2.png" x="1" y="259" w="128" h="192"/>
+    <sprite n="jungle_water1.png" x="1199" y="358" w="128" h="128"/>
+    <sprite n="jungle_water2.png" x="1301" y="228" w="128" h="128"/>
+    <sprite n="platform_2.png" x="1069" y="68" w="253" h="67"/>
+    <sprite n="platform_3.png" x="983" y="1" w="387" h="65"/>
+</TextureAtlas>
